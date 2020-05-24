@@ -1,4 +1,19 @@
 # chat-desktop
+# Screenshots
+![1](https://user-images.githubusercontent.com/64668717/82762537-fa3c3280-9dd7-11ea-827b-0afa706d3734.png)
+![2](https://user-images.githubusercontent.com/64668717/82762541-fad4c900-9dd7-11ea-874a-ca2962ab952a.png)
+![borda](https://user-images.githubusercontent.com/64668717/82762700-e1804c80-9dd8-11ea-80eb-a3213c7da80a.png)
+![3](https://user-images.githubusercontent.com/64668717/82762608-5d2dc980-9dd8-11ea-9426-6212aeec8fef.png)
+![4](https://user-images.githubusercontent.com/64668717/82762609-5e5ef680-9dd8-11ea-95f6-25872642c34f.png)
+![borda](https://user-images.githubusercontent.com/64668717/82762700-e1804c80-9dd8-11ea-80eb-a3213c7da80a.png)
+![5](https://user-images.githubusercontent.com/64668717/82762610-5f902380-9dd8-11ea-9a12-4e2f05d5388b.png)
+![6](https://user-images.githubusercontent.com/64668717/82762614-61f27d80-9dd8-11ea-924a-021bbd604b7f.png)
+![borda](https://user-images.githubusercontent.com/64668717/82762700-e1804c80-9dd8-11ea-80eb-a3213c7da80a.png)
+![7](https://user-images.githubusercontent.com/64668717/82762648-96fed000-9dd8-11ea-8930-42a2235c5f1c.png)
+![borda](https://user-images.githubusercontent.com/64668717/82762700-e1804c80-9dd8-11ea-80eb-a3213c7da80a.png)
+![8](https://user-images.githubusercontent.com/64668717/82762649-98c89380-9dd8-11ea-9de0-971afdb8c95e.png)
+
+
 <h1> Projeto </h1>
   <p>
     Foi desenvolvido um programa desktop de chat multi-usuário , usando socket. O programa foi elaborado de acordo com as seguintes regras:
